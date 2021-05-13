@@ -1,0 +1,310 @@
+/* Buttons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.button,
+button {
+  display: inline-block;
+  text-decoration: none;
+  height: 60px;
+  padding: 0 16px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 18px;
+  width: 300px;
+  font-weight: 600;
+  line-height: 58px;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+  background-color: transparent;
+  border-radius: 8px;
+  cursor: pointer;
+  box-sizing: border-box; }
+button:hover,
+.button:focus {
+  color: #333;
+  border-color: #888;
+  outline: 0; }
+.button.button-primary {
+  color: #FFF;
+  filter: brightness(90%) }
+.button.button-primary:hover,
+.button.button-primary:focus {
+  color: #FFF;
+  filter: brightness(90%) }
+
+
+/* Brand Icons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.icon {
+  padding: 0px 8px 3.5px 0px;
+  vertical-align: middle;
+  width: 20px;
+  height: 20px;
+}
+
+
+.icon2 {
+  padding: 8px 8px 8px 8px;
+  vertical-align: middle;
+  width: 35px;
+  height: 35px;
+}
+
+
+.icon2:hover{
+  border: 1px solid #FFFFFF;
+}
+
+/* Brand Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* Discord */
+.button.button-discord {
+  color: #FFFFFF;
+  background-color: #7289DA }
+.button.button-discord:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-discord:focus {
+  filter: brightness(90%) }
+
+/* Facebook */
+.button.button-facebook {
+  color: #FFFFFF;
+  background-color: #1877f2 }
+.button.button-facebook:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-facebook:focus {
+  filter: brightness(90%) }
+
+/* Figma */
+.button.button-figma {
+  color: #FFFFFF;
+  background-color: #131313 }
+.button.button-figma:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-figma:focus {
+  filter: brightness(90%) }
+
+/* Github */
+.button.button-github {
+  color: #FFFFFF;
+  background-color: #24292e }
+.button.button-github:hover{
+    border-radius: 10px;
+    border: 2px solid #FFFFFF;
+}
+.button.button-github:focus 
+{
+  filter: brightness(90%) 
+  
+}
+
+/* Instagram */
+.button.button-instagram {
+  color: #FFFFFF;
+  background-image: linear-gradient(-135deg,#1400c8,#b900b4,#f50000) }
+.button.button-instagram:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-instagram:focus {
+  filter: brightness(90%) }
+
+/* Kit */
+.button.button-kit {
+  color: #FFFFFF;
+  background-color: #10c694 }
+.button.button-kit:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-kit:focus {
+  filter: brightness(90%) }
+
+/* LinkedIn */
+.button.button-linkedin {
+  color: #FFFFFF;
+  background-color: #0A66C2 }
+.button.button-linkedin:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-linkedin:focus {
+  filter: brightness(90%) }
+
+/* Medium */
+.button.button-medium {
+  color: #000000;
+  background-color: #E8F3EC }
+.button.button-medium:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-medium:focus {
+  filter: brightness(90%) }
+
+/* Mixer */
+.button.button-mixer {
+  color: #FFFFFF;
+  background-color: #212c3d }
+.button.button-mixer:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-mixer:focus
+ {
+  filter: brightness(90%) 
+}
+
+/* Pinterest */
+.button.button-pinterest {
+  color: #FFFFFF;
+  background-color: #E60023 }
+.button.button-pinterest:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-pinterest:focus {
+  filter: brightness(90%) }
+
+/* Reddit */
+.button.button-reddit {
+  color: #FFFFFF;
+  background-color: #FF4500 }
+.button.button-reddit:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-reddit:focus {
+  filter: brightness(90%) }
+
+/* Snapchat */
+.button.button-snapchat {
+  color: #000000;
+  background-color: #fffc00 }
+.button.button-snapchat:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-snapchat:focus {
+  filter: brightness(90%) }
+
+/* SoundCloud */
+.button.button-soundcloud {
+  color: #FFFFFF;
+  background-color: #ff5500 }
+.button.button-soundcloud:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-soundcloud:focus {
+  filter: brightness(90%) }
+
+/* Spectrum */
+.button.button-spectrum {
+  color: #FFFFFF;
+  background-color: #7b16ff }
+.button.button-spectrum:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-spectrum:focus {
+  filter: brightness(90%) }
+
+/* Spotify */
+.button.button-spotify {
+  color: #FFFFFF;
+  background-color: #1DB954 }
+.button.button-spotify:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-spotify:focus {
+  filter: brightness(90%) }
+
+/* Steam */
+.button.button-steam {
+  color: #FFFFFF;
+  background-color: #171a21 }
+.button.button-steam:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-steam:focus {
+  filter: brightness(90%) }
+  
+/* Telegram */
+.button.button-telegram {
+  color: #FFFFFF;
+  background-color: #3faee8 }
+.button.button-telegram:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-telegram:focus {
+  filter: brightness(90%) }
+
+/* Tumblr */
+.button.button-tumblr {
+  color: #FFFFFF;
+  background-color: #131313 }
+.button.button-tumblr:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-tumblr:focus {
+  filter: brightness(90%) }
+
+/* Twitch */
+.button.button-twitch {
+  color: #FFFFFF;
+  background-color: #9146ff }
+.button.button-twitch:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-twitch:focus {
+  filter: brightness(90%) }
+
+/* Twitter */
+.button.button-twitter {
+  color: #FFFFFF;
+  background-color: #1DA1F2 }
+.button.button-twitter:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-twitter:focus {
+  filter: brightness(90%) }
+
+/* YouTube */
+.button.button-youtube {
+  color: #FFFFFF;
+  background-color: #FF0000 }
+.button.button-youtube:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-youtube:focus {
+  filter: brightness(90%) }
+
+
+
+
+/* YouTube */
+.button.button-email {
+  color: #FFFFFF;
+  background-color: #D1011B }
+.button.button-email:hover{
+  border-radius: 10px;
+  border: 2px solid #FFFFFF;
+}
+.button.button-email:focus {
+  filter: brightness(90%) }
