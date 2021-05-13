@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Image of Info](https://github.com/TheAppWizard/TheAppWizard/blob/main/info.jpeg)
+![Image of Info](https://github.com/TheAppWizard/TheAppWizard/blob/main/info.png)
