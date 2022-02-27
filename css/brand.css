@@ -1,0 +1,227 @@
+
+/* ----------------------------------------------------- */
+
+.links {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border:  solid white;
+    border-width: 1px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+    font-size: 15px;
+}
+
+/* ----------------------------------------------------- */
+
+
+
+/* --------------YOUTUBE--------------------------------------- */
+
+.links-youtube{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-youtube:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #ED213A;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #93291E, #ED213A);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #93291E, #ED213A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------YOUTUBE--------------------------------------- */
+
+
+/* --------------GITHUB--------------------------------------- */
+
+.links-github{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-github:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #2B3035;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------GITHUB--------------------------------------- */
+
+
+/* --------------INSTAGRAM--------------------------------------- */
+
+.links-instagram{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-instagram:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #833ab4;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------INSTAGRAM--------------------------------------- */
+
+
+/* --------------TWITTER--------------------------------------- */
+
+.links-twitter{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-twitter:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #00B4DB;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #0083B0, #00B4DB);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #0083B0, #00B4DB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------TWITTER--------------------------------------- */
+
+
+/* --------------LIN--------------------------------------- */
+
+.links-linkedin{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-linkedin:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #0072AC;  /* fallback for old browsers */
+
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------LIN--------------------------------------- */
+
+
+
+/* --------------MAIL--------------------------------------- */
+
+.links-mail{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border:  solid white;
+  border-width: 0.5px;
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+.links-mail:hover{
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: #870000;  /* fallback for old browsers */
+ 
+  width: 290px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+}
+/* --------------MAIL--------------------------------------- */
+
+
+
